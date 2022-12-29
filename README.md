@@ -4,5 +4,7 @@
 ### Utilizes Python's pandas library for data storage, Request-HTML for scraping, and Plotly Express for graphing 
 ### Image:
 ![dashboard](https://user-images.githubusercontent.com/98052052/209981417-1a5ef882-9c9e-4bb6-9beb-2bffb623ecb8.jpg)
+![image](https://user-images.githubusercontent.com/98052052/209983372-ccf3ba2b-5601-4a22-af16-15b06150d401.png)
+
 
 
