@@ -1,3 +1,4 @@
 # DataScraper-Visualizer
-## Built using Python, Excel, and StreamLit
+## Program that scrapes shop data, stores that data, and outputs the data to a dashboard
+### Built using Python, Excel, and StreamLit
 ### Utilizes Python's pandas library for data storage, Request-HTML for scraping, and Plotly Express for graphing 
